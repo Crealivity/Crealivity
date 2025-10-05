@@ -56,11 +56,10 @@ I build and maintain projects in my free time. If you find them useful and want 
 
 ---
 
----
-
 ### ❤️ CREDITS
 
 Crealivity builds upon public-source work and acknowledges all contributors and communities that make these tools possible. 
 Collaboration and transparency are at the heart of every project.
 
+---
 ---
